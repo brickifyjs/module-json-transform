@@ -1,0 +1,33 @@
+{
+  "name": "@brickskit/m-jt",
+  "version": "0.0.1",
+  "description": "Transform any JSON into any language/template",
+  "author": "Nicolas RAIBAUD",
+  "license": "MIT",
+  "repository": "brickskit/module-json-transform",
+  "keywords": [
+    "module",
+    "brickskit",
+    "bricksjs",
+    "json",
+    "transform",
+    "template",
+    "string",
+    "file",
+    "export"
+  ],
+  "main": "src/index.js",
+  "files": [
+    "src/index.js"
+  ],
+  "scripts": {
+    "test": "ospec",
+    "lint": "eslint .",
+    "coverage": "istanbul cover --print both ospec"
+  },
+  "devDependencies": {
+    "ospec": "^1.3.1",
+    "eslint": "^3.19.0",
+    "istanbul": "^0.4.5"
+  }
+}
