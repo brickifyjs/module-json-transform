@@ -2,6 +2,25 @@
 
 > Transform any JSON into any language/template
 
+## Statistics
+
+[![Github All Releases](https://img.shields.io/github/downloads/brickifyjs/module-json-transform/total.svg?style=flat-square)](https://github.com/brickifyjs/module-json-transform)
+[![npm](https://img.shields.io/npm/dt/@brickify/m-jt.svg?style=flat-square)](https://www.npmjs.com/package/@brickify/m-jt)
+
+## Social
+[![GitHub forks](https://img.shields.io/github/forks/brickifyjs/module-json-transform.svg?label=Fork&style=flat-square)](https://github.com/brickifyjs/module-json-transform)
+[![GitHub stars](https://img.shields.io/github/stars/brickifyjs/module-json-transform.svg?label=Stars&style=flat-square)](https://github.com/brickifyjs/module-json-transform)
+[![GitHub watchers](https://img.shields.io/github/watchers/brickifyjs/module-json-transform.svg?label=Watch&style=flat-square)](https://github.com/brickifyjs/module-json-transform)
+[![Gitter](https://img.shields.io/gitter/room/brickifyjs/module-json-transform.svg?style=flat-square)](https://gitter.im/brickifyjs/module-json-transform)
+
+## Project Health
+
+[![Travis branch](https://img.shields.io/travis/brickifyjs/module-json-transform/master.svg?style=flat-square)](https://travis-ci.org/brickifyjs/module-json-transform)
+[![Codecov](https://img.shields.io/codecov/c/github/brickifyjs/module-json-transform.svg?style=flat-square)](https://codecov.io/gh/brickifyjs/module-json-transform)
+[![bitHound](https://img.shields.io/bithound/dependencies/github/brickifyjs/module-json-transform.svg?style=flat-square)](https://www.bithound.io/github/brickifyjs/module-json-transform/master/dependencies/npm)
+[![bitHound](https://img.shields.io/bithound/devDependencies/github/brickifyjs/module-json-transform.svg?style=flat-square)](https://www.bithound.io/github/brickifyjs/module-json-transform/master/dependencies/npm)
+[![Website](https://img.shields.io/website/https/m-jt.js.brickify.io.svg?label=website&style=flat-square)](https://m-jt.js.brickify.io)
+
 ## Install
 
 ```bash
